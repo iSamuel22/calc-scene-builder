@@ -2,7 +2,7 @@
 Este projeto é uma calculadora simples desenvolvida em Java utilizando JavaFX e Scene Builder. A aplicação permite realizar operações aritméticas básicas, como adição, subtração, multiplicação, divisão e calcular porcentagens. O projeto é estruturado em uma arquitetura MVC (Modelo-Vista-Controlador) para facilitar a manutenção e a expansão.
 
 ## 📑 Índice
-1. [Funcionalidades](#)
+1. [Funcionalidades](#%EF%B8%8F-funcionalidades)
 2. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 3. [Pré-requisitos](#-pré-requisitos)
 4. [Instalação](#-instalação)
