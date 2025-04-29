@@ -36,7 +36,7 @@ Para executar este projeto, você precisará de:
 #### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/smuelp/calc-scene-builder.git
+git clone https://github.com/iSamuel22/calc-scene-builder.git
 ```
 
 #### 2. Abra o projeto na sua IDE:
